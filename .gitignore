@@ -18,6 +18,10 @@ Source: https://raw.githubusercontent.com/OmniSharp/generator-aspnet/master/temp
 Reactivities.sln
 .vscode
 API/Properties
+bin
+obj
+appsettings.json
+*.db
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
