@@ -22,6 +22,7 @@ bin
 obj
 appsettings.json
 *.db
+client-app/node_modules
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
